@@ -54,7 +54,7 @@ cd startup-analysis
 
 ```
 
-pip install streamlit pandas numpy matplotlib scikit-learn scipy
+pip install streamlit pandas numpy matplotlib scikit-learn scipy streamlit-option-menu
 
 ```
 
